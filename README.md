@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mayur Lad</h1>
+<h1 align="center">Hi <img width="30px" height="30px" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" />, I'm Mayur Lad</h1>
 <h3 align="center">💻 Machine Learning Intern | 🔧 Full Stack Web Developer</h3>
 
 <p align="center">
